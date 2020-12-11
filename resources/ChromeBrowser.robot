@@ -8,3 +8,4 @@ OpenChromeBrowser
     Open Browser    ${URL}    ${Browser}
     Maximize Browser Window
     Wait Until Element Is Visible    //*[@class="header-logo"]//img
+    #povik
